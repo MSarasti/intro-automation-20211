@@ -21,5 +21,6 @@ This workshop is created to provide an introduction about the test automation.
 ## The challenge
 
 First, you will need to fork the repo and checkout to the branch `contact-test`. Then, you will need to find all the selectors that are needed to execute the `contact-us.test.js`. If you succeed, then the CI build should be in green! :D
-Challenged has been completed.
+
+* Challenged has been completed.
 
